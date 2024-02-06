@@ -32,7 +32,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Shakawazu/Android_TWRP_device_tree_vela'
+        default: 'https://github.com/YunFeng6666/Android_TWRP_device_tree_vela'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
